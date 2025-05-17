@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Chanel Chance Eau Tendre",
+    "cinsiyet": "Kadın",
+    "yas": ["18-24", "25-34"],
+    "notalar": ["Çiçeksi", "Ferah"],
+    "stil": ["Bohem", "Klasik"],
+    "mevsim": ["İlkbahar", "Yaz"]
+  },
+  {
+    "name": "Dior Sauvage",
+    "cinsiyet": "Erkek",
+    "yas": ["25-34", "35-44"],
+    "notalar": ["Odunsu", "Baharatlı"],
+    "stil": ["Spor", "Lüks"],
+    "mevsim": ["Sonbahar", "Kış"]
+  }
+]
